@@ -4,9 +4,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-Hello, my name is Abel. I really like technology. Since I got into the technology industry, I knew it was the ideal sector for me. That's why I consider myself self-taught: I like to learn new things and continue learning, mainly because I do what I do with passion. I also like to stay abreast of new technologies as they emerge. I love opportunities to continue growing professionally and learning from others.
+Hola, mi nombre es Francisco. Me gusta mucho la tecnología. Desde que entré en la industria tecnológica, supe que era el sector ideal para mí. Por eso me considero autodidacta: me gusta aprender cosas nuevas y seguir aprendiendo, principalmente porque hago lo que hago con pasión. También me gusta mantenerme al tanto de las nuevas tecnologías a medida que surgen. Me encantan las oportunidades de seguir creciendo profesionalmente y aprendiendo de los demás. 
 
-If you're looking for someone committed, proactive, constantly curious, and with a positive attitude toward learning and continuous improvement, I'd be happy to get in touch with you. I enjoy taking on challenges, providing solutions, and working as a team to achieve great results.
+Si buscas a alguien comprometido, proactivo, constantemente curioso y con una actitud positiva hacia el aprendizaje y la mejora continua, estaré encantado de ponerme en contacto contigo. Disfruto asumiendo desafíos, brindando soluciones y trabajando en equipo para lograr grandes resultados.
 
 <br>
 
@@ -41,16 +41,11 @@ If you're looking for someone committed, proactive, constantly curious, and with
 
 ![NetBeans](https://img.shields.io/badge/NetBeans-%234E8C25.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-%23F24E1E.svg?style=for-the-badge&logo=draw.io&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-%23F24E1E.svg?style=for-the-badge&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-0080ff?style=for-the-badge&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logoColor=white)
 
 #### 🔐 Security
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -59,4 +54,4 @@ If you're looking for someone committed, proactive, constantly curious, and with
 #### 🧪 Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-![Karma](https://img.shields.io/badge/Karma-34A853?style=for-the-badge&logo=karma&logoColor=white)
+
